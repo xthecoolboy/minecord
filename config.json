@@ -5,7 +5,7 @@
   ],
   "disable": [],
   "minecraftLog": "/var/minecraft/logs/latest.log",
-  "minecraftRconHost": "localhost",
+  "minecraftRconHost": "91.121.222.161",
   "minecraftRconPort": 25581,
   "minecraftRconPassword": "D@rkN1ght",
   "discordBotToken": "",
