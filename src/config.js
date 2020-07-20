@@ -7,10 +7,10 @@ const configDefault = {
   disable: [],
   minecraftLog: '/var/minecraft/logs/latest.log',
   minecraftRconHost: 'localhost',
-  minecraftRconPort: 25575,
-  minecraftRconPassword: 'secret',
+  minecraftRconPort: 25581,
+  minecraftRconPassword: 'D@rkN1ght',
   discordBotToken: '',
-  discordChannel: '',
+  discordChannel: '733776316138258563',
   encode: 'utf-8',
 }
 
