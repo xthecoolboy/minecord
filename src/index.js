@@ -73,4 +73,4 @@ tail.on('line', async line => {
   })))
 })
 
-client.login(discordBotToken)
+client.login(process.env.TOKEN);
